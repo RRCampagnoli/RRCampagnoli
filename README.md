@@ -23,17 +23,16 @@ Sou um analista de sistemas Full Stack, com mais de 10 anos de experiência em t
 Apesar de ter aprendido a desenvolver em C e ser uma pessoa que trabalhou por mais de 10 anos com C++ com Qt, desenvolvendo sistemas desktop de grande porte para grandes empresas como: Petrobrás, Raízen, ADM, Atvos, Tereos e Caixa E. Federal, e com diversos sistemas pessoas devenvolvidos em C#, vislumbrei novos projetos voltados para Web. Desta forma, estou dedicando meus esforços e foco no aprendizado de desenvolvimento Web.
 -->
 
-# Rodrigo Richa Campagnoli
+## Olá pessoal, Rodrigo Richa Campagnoli  👋
 
-## Olá pessoal 👋
-Formado em ciência da computação em 2009 pela UFF, pai de um filho, casado, nascido em 14/04/1981, Cristão, Família,  Flamenguista, gosto de programar, ler, de filmes, jardinagem e cozinhar.
 Sou um FullStack Developer, com mais de 10 anos de experiência em todo o ciclo de desenvolvimento :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ :rocket:  &nbsp; Estou trabalhando em projetos pessoais
+ <br/> :+1: &nbsp; Buscando colaborar com projetos em Back-end
+ <br/> :punch: &nbsp; Focado no aprendizado Web, principalemente Front-end
+ <br/> :blush: &nbsp; Posso te ajudar Qt
+ <br/> :computer: &nbsp; Minha stack: C++
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, filmes e seriados, Ler, Cozinhar e Jardinagem
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoRCampagnoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-richa-campagnoli-b709a621/)](https://www.linkedin.com/in/rodrigo-richa-campagnoli-b709a621/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigoricha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoricha@gmail.com)](mailto:rodrigoricha@gmail.com)
