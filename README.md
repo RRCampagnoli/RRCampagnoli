@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
---> Me chamo Rodrigo Richa Campagnoli, formado em ciência da computação em 2009 pela UFF, pai de um filho, casado, nascido em 14/04/1981, Cristão, Família,  Flamenguista, gosto de programar, ler, de filmes, jardinagem e cozinhar.
+Me chamo Rodrigo Richa Campagnoli, formado em ciência da computação em 2009 pela UFF, pai de um filho, casado, nascido em 14/04/1981, Cristão, Família,  Flamenguista, gosto de programar, ler, de filmes, jardinagem e cozinhar.
                    
 Atualmente estou focado em projetos pessoais, estudar novas ferramentas, principalmente conteúdo WEB e aperfeiçoar o conhecimentos nas linguagens e ferramentas que conheço mais a fundo, como C++ e Qt.
 
