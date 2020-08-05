@@ -31,6 +31,6 @@ Sou um FullStack Developer, com mais de 10 anos de experiência em todo o ciclo 
  <br/> :blush: &nbsp; Posso te ajudar: Qt
  <br/> :computer: &nbsp; Minha stack: C++
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, filmes e seriados, Ler, Cozinhar e Jardinagem
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoRCampagnoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-richa-campagnoli-b709a621/)](https://www.linkedin.com/in/rodrigo-richa-campagnoli-b709a621/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoRCampagnoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RodrigoRichaCampagnoli/)](https://www.linkedin.com/in/RodrigoRichaCampagnoli/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigoricha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoricha@gmail.com)](mailto:rodrigoricha@gmail.com)
