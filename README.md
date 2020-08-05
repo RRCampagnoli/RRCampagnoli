@@ -28,6 +28,6 @@ Sou um analista de sistemas Full Stack, com mais de 10 anos de experiência em t
 Apesar de ter aprendido a desenvolver em C e ser uma pessoa que trabalhou por mais de 10 anos com C++ com Qt, desenvolvendo sistemas desktop de grande porte para grandes empresas como: Petrobrás, Raízen, ADM, Atvos, Tereos e Caixa E. Federal, e com diversos sistemas pessoas devenvolvidos em C#, vislumbrei novos projetos voltados para Web. Desta forma, estou dedicando meus esforços e foco no aprendizado de desenvolvimento Web.
 
 Para entrar em contato comigo, meus contatos são:
-Email: rodrigoricha@gmail.com
-LinkedIn: https://www.linkedin.com/in/rodrigo-richa-campagnoli-b709a621/
-Celular: +55 (21) 976272167.
+### Email: rodrigoricha@gmail.com
+### LinkedIn: https://www.linkedin.com/in/rodrigo-richa-campagnoli-b709a621/
+### Celular: +55 (21) 976272167.
