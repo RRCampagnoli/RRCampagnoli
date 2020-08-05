@@ -14,33 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Me chamo Rodrigo Richa Campagnoli, formado em ciência da computação em 2009 pela UFF, pai de um filho, casado, nascido em 14/04/1981, Cristão, Família,  Flamenguista, gosto de programar, ler, de filmes, jardinagem e cozinhar.
-                   
+<!--
+Me chamo Rodrigo Richa Campagnoli, fFormado em ciência da computação em 2009 pela UFF, pai de um filho, casado, nascido em 14/04/1981, Cristão, Família,  Flamenguista, gosto de programar, ler, de filmes, jardinagem e cozinhar.                   
 Atualmente estou focado em projetos pessoais, estudar novas ferramentas, principalmente conteúdo WEB e aperfeiçoar o conhecimentos nas linguagens e ferramentas que conheço mais a fundo, como C++ e Qt.
-
 Estou fazendo o curso NLW2 Delivery, estudando o livro "C++ Moderno e Eficaz" de Scott Meyers e, além de desenvolver pequenos sistemas em Qt para aumentar meu conhecimento na ferramenta e ampliar meus projetos no GitHub, estou desenvolvendo um robô para criação de vídeos no Youtube, ensinados por Filipe Deschamps. Além dos livros técnicos leio a Bíblia e estou lendo o livro "Revolucinonando Relacionamentos" de Drummond Lacerda. Fora os livros que leio todos os dias a passagem para o dia, como Pão diário e Alimento Diário (leio 4 livros, cada um com um ensinamento para o dia em questão) e um capítulo de Salmos.
-
 Sou uma pessoa que gosta muito de aprender, mas também gosto muito de ensinar. Sei que a principal forma de aprender é ensinando. Mas, mais do que isso, saber que pessoas estão evoluindo ao seu lado é gratificante e é gratificante ver alguém ao lado se tornar um vencedor, alguém que pode trazer muitos novos conhecimentos, tanto pra mim, quanto pra equipe. Fazendo uma alusão ao futebol, do que adianta um craque em uma equipe que não ganha título?
-
 Sou um analista de sistemas Full Stack, com mais de 10 anos de experiência em todo o ciclo de desenvolvimento, desde a parte de documentação UML,Projeto de Banco de Dados, Testes, Camada de Aplicação e View, assim como com Processos ágeis como Scrum e Kanban e Controladores de Versão como Git, SVN, CVS e Clear Case.
-
 Apesar de ter aprendido a desenvolver em C e ser uma pessoa que trabalhou por mais de 10 anos com C++ com Qt, desenvolvendo sistemas desktop de grande porte para grandes empresas como: Petrobrás, Raízen, ADM, Atvos, Tereos e Caixa E. Federal, e com diversos sistemas pessoas devenvolvidos em C#, vislumbrei novos projetos voltados para Web. Desta forma, estou dedicando meus esforços e foco no aprendizado de desenvolvimento Web.
-
-Para entrar em contato comigo, meus contatos são:
-### Email: 
-### LinkedIn: 
-### Celular: +55 (21) 976272167.
-
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
+-->
 
 # Rodrigo Richa Campagnoli
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Formado em ciência da computação em 2009 pela UFF, pai de um filho, casado, nascido em 14/04/1981, Cristão, Família,  Flamenguista, gosto de programar, ler, de filmes, jardinagem e cozinhar.
+Sou um FullStack Developer, com mais de 10 anos de experiência em todo o ciclo de desenvolvimento :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
